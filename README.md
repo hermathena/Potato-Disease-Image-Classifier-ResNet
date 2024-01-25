@@ -1,1 +1,1 @@
-# Potato-Disease-Image-Classifier-ResNet.ipynb
+# Potato-Disease-Image-Classifier-ResNet
